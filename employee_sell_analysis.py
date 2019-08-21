@@ -1,3 +1,5 @@
+import matplotlib.pyplot as plt
+
 class month_sell : 
     
     def __init__(self, sellA , sellB , sellC) : 
