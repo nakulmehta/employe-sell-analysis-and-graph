@@ -1,4 +1,7 @@
-import matplotlib.pyplot as plt
+# the code is limited till 3 employes and 3 months, simply go and increase variables if you want to plot more data. 
+
+
+import matplotlib.pyplot as plt 
 
 class month_sell : 
     
